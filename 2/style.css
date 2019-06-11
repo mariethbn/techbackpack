@@ -80,6 +80,7 @@ a:hover {
 }
 
  #apropos{
+  border: 8px solid #AF0022;
   margin: 0 auto;
   width: 80%;
 }
